@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&family=Pixelify+Sans&family=Playfair+Display&family=Roboto+Mono:wght@500&display=swap');
 
 body{
-    background-color: #efd9ce
+    background-color: #efd9ce;
+    border: 4px double #bc6c25;
 }
 #header{
     overflow: hidden;

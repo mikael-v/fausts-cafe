@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&family=Pixelify+Sans&family=Playfair+Display&family=Roboto+Mono:wght@500&display=swap');
+
+
+body{
+    background-color: #efd9ce;
+    border: 4px double #bc6c25;
+}
+
+#header{
+    overflow: hidden;
+    padding: 15px 10px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin-left:auto;
+    margin-right: auto;
+    color: #bc6c25;
+    font-family: "Playfair Display";
+}
+
+.header-right{
+    display: flex;
+    gap:75px;
+    font-size: 20px;
+  
+}
+
+.header-left{
+    display: flex;
+    gap:75px;
+    font-size: 20px;
+    
+   
+}
+#header a{
+    text-decoration: none;
+    color:#bc6c25
+}
+#header a:hover{
+    color: #77451a;
+}
+
+.cafeName{
+    font-weight: bolder;
+    font-size: 24px;
+    font-weight: 900;
+    margin-top:10px
+}
+
+
+.title{
+    color:#bc6c25;
+    font-family: "Playfair Display";
+    text-align: center;
+}
+.images{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    flex-wrap: wrap; 
+}
+.foodImg:hover{
+    filter: grayscale(0);
+    transform: scale(1.1);
+}
+.foodImg{
+    height:250px;
+    width:200px;
+    padding: 10px;
+    filter:grayscale(50%);
+    transition: 1s
+}
