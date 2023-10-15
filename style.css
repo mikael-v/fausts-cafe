@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&family=Pixelify+Sans&family=Playfair+Display&family=Roboto+Mono:wght@500&display=swap');
+
+body{
+    background-color: #efd9ce
+}
+#header{
+    overflow: hidden;
+    padding: 15px 10px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin-left:auto;
+    margin-right: auto;
+    color: #bc6c25;
+    font-family: "Playfair Display";
+}
+
+.header-right{
+    display: flex;
+    gap:75px;
+    font-size: 20px;
+  
+}
+
+.header-left{
+    display: flex;
+    gap:75px;
+    font-size: 20px;
+    
+   
+}
+#header a{
+    text-decoration: none;
+    color:#bc6c25
+}
+#header a:hover{
+    color: #77451a;
+}
+
+.cafeName{
+    font-weight: bolder;
+    font-size: 24px;
+    font-weight: 900;
+    margin-top:10px
+}
+
+.cafeImg{
+ width:90%;
+ margin-left:auto;
+ margin-right: auto;
+ display: block;
+ padding: 8px;
+}
+
+hr{
+    height: 1px;
+    background-color: #bc6c25;
+    border-color: #bc6c25;
+    opacity: 20%;
+    width:90%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.auTitle{
+    font-weight: bolder;
+    font-size: 24px;
+    font-weight: 900;
+    color: #bc6c25;
+    font-family: "Playfair Display";
+    text-align: center;
+}
+.auContent{
+    margin-left:5%;
+    margin-right: 5%;
+    margin-bottom: 10px;
+
+}
+.text{
+    color: #bc6c25;
+    font-family: "Playfair Display";
+    width:49%;
+    float: left;
+    font-size: 13px;
+    padding-top: 0px;
+    margin-top: 0px;
+    padding-right: 10px;
+
+}
+.bartender{
+    width: 49%;
+    margin-right: auto;
+    margin-top: 15px;
+}
+
+.map{
+    height: 550px;
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0%;
+}
+
