@@ -1,0 +1,9 @@
+IDEAS FOR 2ND VERSION:
+
+- turn nav into a pop-out sidebar
+- make the header sticky scroll and background color only appears when scroll down, otherwise it's part of the page 
+(like https://muffingroup.com/blog/cafe-websites/)
+- maybe add a feedback form and/or a form to book a table
+- turn menu in header into a dropdown linking seperately to food, drink & desserts
+- make a review carousel with npc & pc character profile images
+- make the food link to an informational page/image about each item (look at gelato village website for inspiration)

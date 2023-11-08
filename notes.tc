@@ -1,12 +1,12 @@
 Header: nav bar (about-us;menu:starters,mains,drink,desserts; gallery (images); contact us (scrolls down to contact footer))
 Home page: about us section; image of faust; lore
-Menu Pg: Starters; Mains; Drinks; Desserts; descriptions, images, maybe prices; links just scroll down to different
+Menu Pg: Food & Snacks; Drinks; Desserts; descriptions, images, maybe prices; links just scroll down to different
 sections (i.e starters at the top)
 Food: Images of various foods of a similar colour scheme
 Contact Us/Make a Suggestion: a form for users to fill in with a name, email, optional number, and message boxes
 Footer: find us; address; phone number; open times, map location img
 
-import google fonts
+
 make it phone responsive (good luck)
 maybe put some calm music overlay that cna be switched off; use smth from viri's cafe au playlist? 
 or d&d tavern music 
@@ -16,8 +16,9 @@ earthy tones, maybe hints of purple
 font ideas: PT SERIF; NOTO SERIF; LIBRE BASKERVILLE; 
 Name ideas: Dragons & Drakes; Firefly Cafe; Dumplings & Drakes; Dragons & Danishes
 
-first make the index/homepage without active links, just text and css, header and footer
 
+in the contact us form use js to make it clear the fields and return a message when you click the submit button
+add a review carousel to the bottom of the homepage using js and include pfps of the characters/npcs
 
 
 about us:
@@ -27,9 +28,10 @@ Crafted with love and care by retired adventurer Ferran Telfer,
 Dragons & Drakes embodies soothing calm after a lifetime of adventure.  
 
 Step into our cozy sanctuary, After discovering the tales of distant lands and mythical creatures, we invite you to unwind and indulge in a moment of peace. The scent of freshly brewed coffee mingles with the aroma of ancient scrolls, time slows down, and the worries of the world outside fade away.
-
 At Dragons & Drakes, we believe in the magic of discovery. From the delicate notes of our enchanted brews to the sharp tang of Adrali inspired teas, our menu is a journey through flavors that will transport you to realms unknown and bring you back to the warm embrace of home.
-
 Dragons & Drakes is more than just a coffee shop, it’s a welcoming space where friends and family gather, and stories are shared. Our friendly and knowledgablestaff, many of whom are fellow retired adventurers and family are always eager to guide you through our menu and help you find your perfect brew. Whether you're a seasoned explorer or a first-time visitor, you'll find a warm and welcoming atmosphere where you can relax, recharge, and share your own tales of adventure.
-
 So come join us at Dragons and Drakes and let the gentle rhythm of life embrace you. Experience the magic of a perfectly brewed cup of coffee, and the feeling of being at home, even when you're away. Take a seat, relax, and let the aroma of freshly brewed coffee wrap around you like a well worn cloak. 
+
+
+TO DO
+- make the submit form return an error if required areas aren't filled in
